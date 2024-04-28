@@ -1,0 +1,9 @@
+{
+  "[python]": {
+    "editor.wordBasedSuggestions": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4
+  },
+  "python.formatting.provider": "black",
+  "python.linting.mypyEnabled": true
+}
